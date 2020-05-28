@@ -1,0 +1,11 @@
+Heron Wine: 7cp
+Yanusa Wine: 4cp
+Khellanic (dwarven) Ale: 9cp
+Thanuk (heavy) Ale: 6cp
+Whiskey: 8cp
+Shanshun Lager: 5cp
+Chanusian Wine: 6cp
+Fallan (elven) Wine: 10cp
+Askarus (heavy) Ale: 6cp
+Quillin (elven) Wine: 10cp
+Invidian (pale) Ale: 5cp

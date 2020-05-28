@@ -1,0 +1,16 @@
+Weightless Rope: this rope simply has no weight of note (1 coins worth), a man could manage 500 feet of it before the volume of the rope becomes too unwieldy.
+Razorbane line: This rope can not be cut unless one knows the magic word which must be spoken as it is cut.
+Hangman's Cord: This rope will when thrown to the floor and the command word is spoken navigate towards a target of it's masters choice at a rate of 60' a round (up to 1200'). The hangman's Cord will attack as a 4HD monster and on a successful strike it will begin to choke it's victim who must save vs petrification each round or they will be rendered helpless and choked to death (in 3 minutes).
+Hangman's Surprise: This cursed rope will seem to be a Hangman's cord but if anyone attempt to use it to harm a lawful being it will turn on it's user.
+Justicar's Bindings: this rope will when securely held leap towards a target up to 30' away and bind their hand together should they fail a save vs petrification.
+Merciful Snare: If this rope is disturbed by someone that doesn't know it's secret command word it will attempt to entangle them (attack as 4HD monster) and on the following round the target must save vs spells or fall asleep. The rope will hold them secure and asleep until severed or commanded to release the victim.
+High Wire: This magical line will attach itself between two points within 100' and may be walked upon by anyone so long as the angle between both points is less then 45 degrees.
+Life Line: This rope is worn around the belt and should one fall they are allowed a save vs death and if successful the line will magically unreel itself and secure the bearer who will fall no more then 1/2 the distance possible (the climb back up could take a while)
+Whisper Knot: This rope will tie and untie itself with but softly spoken command words.
+Rusting Line: this rusty looking coil of wire is actually a fairly light and useable line. Any edged weapon used to try to cut this blade forces the bearer of the weapon to make a save vs spells or the weapon will rust away (without harming the line).
+Leaping Cord: This magical rope will hurl itself into the air on command and attach itself to a usable mooring point on the users command up to 200' away.
+Fumble Line: This line will act as a leaping cord but there is a 1 in 3 chance it will shake dislodging a climber causing themselves to plummet.
+Netting Line: this light fishing cord will if extended into the water form a net that can be used to snare small object and creatures. In areas with fish it will catch enough fish in 2 turns to feed 2-12 people a meal 2 times a day.
+Stumble Lasso: this looped rope may be used to snare a target up to 50' away on a successful attack roll (at +4 to hit).
+Secret Ascent: This rope is invisible to all save those that touch it (unless it is coiled) and a climber will be invisible during their ascent.
+Catapulting Skein: This cursed rope will hurl anyone attempting to climb it who fails a save vs death away for a distance equal to the length of the line (this could be very damaging).
